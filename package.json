@@ -42,7 +42,7 @@
         "http-auth": "^4.2.0",
         "path-to-regexp": "^6.2.1",
         "postcss": "^8.4.21",
-        "prettier": "^2.8.7",
+        "prettier": "^2.8.8",
         "rammerhead": "https://github.com/Ruby-Network/rammerhead/releases/download/version/rammerhead.tgz",
         "react": "^18.0.0",
         "react-dom": "^18.0.0",
